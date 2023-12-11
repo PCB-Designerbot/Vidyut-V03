@@ -1,0 +1,244 @@
+Change Component Comment : Designator=C13 Old Comment=06035C102KAT4A New Comment=1000pF
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC1608X90N"; UniqueID = "\KNXYGQPS" ("\KNXYGQPS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'AVX'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "06033G104ZAT4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAP_0603
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found CAPC1608X87N
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found EEETC1V470P
+Add Component: Footprint Not Found CAPC2012X70N
+Add Component: Footprint Not Found CAPAE660X770N
+Add Component: Footprint Not Found CAPC2012X70N
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found CAPC1608X87N
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found LED-0603-BLUE
+Add Component: Footprint Not Found LED-0603-BLUE
+Add Component: Footprint Not Found DIOM5126X229N
+Add Component: Footprint Not Found DIOM5436X261N
+Add Component: Footprint Not Found DIOM5436X244N
+Add Component: Footprint Not Found LED-0603-BLUE
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found DIOM5126X229N
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found FUSE_MRT-500-AMMO
+Add Component: Footprint Not Found BEADC2012X105N
+Add Component: Footprint Not Found BEADC2012X105N
+Add Component: Footprint Not Found HDRV10W51P254X127_2X5_635X498X838P
+Add Component: Footprint Not Found HDRV10W51P254X127_2X5_635X498X838P
+Add Component: Footprint Not Found SAMTEC_MTMM-101-10-G-D-135
+Add Component: Footprint Not Found CUI_TB005 -762-03BE
+Add Component: Footprint Not Found CUI_TB005 -762-03BE
+Add Component: Footprint Not Found SAMTEC_MTMM-101-10-G-D-135
+Add Component: Footprint Not Found SAMTEC_MTMM-101-10-G-D-135
+Added Component: Designator=P100(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT96P237X111-3N
+Add Component: Footprint Not Found RESC1608X55
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1607X60N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1607X60N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found S14K300
+Added Component: Designator=S100(PTS636SM43SMTRLFS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pts636-sm43-smtr-lfs/ck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTS636 SM43 SMTR LFS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS636 SM43 SMTR LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS636SM43SMTRLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/PTS636-SM43-SMTR-LFS?qs=vLWxofP3U2xu5raMGkTmHg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOLDERBRIDGE_OPEN
+Added Component: Designator=U100(RHB32_TEX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSP430I2040TRHBR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U200(NCP115)
+Added Component: Designator=U300(5pin SO6_TOS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLP2395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Toshiba Electronic Devices & Storage Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_devices_in_Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PositionInPackage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source_Package"; Value = "TLP2395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=U301(5pin SO6_TOS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TLP2395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Toshiba Electronic Devices & Storage Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_devices_in_Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Footprint"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PositionInPackage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source_Package"; Value = "TLP2395"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C100-1
+Add Pin To Net: Unknown Pin: Pin C101-1
+Add Pin To Net: Unknown Pin: Pin C102-2
+Add Pin To Net: Unknown Pin: Pin C104-2
+Add Pin To Net: Unknown Pin: Pin C200-2
+Add Pin To Net: Unknown Pin: Pin C201-2
+Add Pin To Net: Unknown Pin: Pin C202-1
+Add Pin To Net: Unknown Pin: Pin C202-2
+Add Pin To Net: Unknown Pin: Pin C203-1
+Add Pin To Net: Unknown Pin: Pin C203-2
+Add Pin To Net: Unknown Pin: Pin C204-1
+Add Pin To Net: Unknown Pin: Pin C205-1
+Add Pin To Net: Unknown Pin: Pin C300-1
+Add Pin To Net: Unknown Pin: Pin C301-2
+Add Pin To Net: Unknown Pin: Pin C400-2
+Add Pin To Net: Unknown Pin: Pin C402-2
+Add Pin To Net: Unknown Pin: Pin D100-2
+Add Pin To Net: Unknown Pin: Pin D101-2
+Add Pin To Net: Unknown Pin: Pin D200-2
+Add Pin To Net: Unknown Pin: Pin D201-1
+Add Pin To Net: Unknown Pin: Pin D201-2
+Add Pin To Net: Unknown Pin: Pin D202-2
+Add Pin To Net: Unknown Pin: Pin J200-1
+Add Pin To Net: Unknown Pin: Pin J200-2
+Add Pin To Net: Unknown Pin: Pin J200-3
+Add Pin To Net: Unknown Pin: Pin J200-4
+Add Pin To Net: Unknown Pin: Pin J200-5
+Add Pin To Net: Unknown Pin: Pin J200-6
+Add Pin To Net: Unknown Pin: Pin J200-7
+Add Pin To Net: Unknown Pin: Pin J201-1
+Add Pin To Net: Unknown Pin: Pin J201-5
+Add Pin To Net: Unknown Pin: Pin J201-6
+Add Pin To Net: Unknown Pin: Pin J202-01
+Add Pin To Net: Unknown Pin: Pin M200-6
+Add Pin To Net: Unknown Pin: Pin M200-7
+Add Pin To Net: Unknown Pin: Pin M200-8
+Added Pin To Net: NetName=GND Pin=P100-2
+Add Pin To Net: Unknown Pin: Pin Q300-2
+Add Pin To Net: Unknown Pin: Pin R300-2
+Add Pin To Net: Unknown Pin: Pin R301-1
+Add Pin To Net: Unknown Pin: Pin R301-2
+Add Pin To Net: Unknown Pin: Pin R303-1
+Added Pin To Net: NetName=GND Pin=S100-2
+Added Pin To Net: NetName=GND Pin=U100-12
+Added Pin To Net: NetName=IO_IN Pin=U100-17
+Added Pin To Net: NetName=IO_OUT Pin=U100-18
+Added Pin To Net: NetName=GND Pin=U100-33
+Added Pin To Net: NetName=GND Pin=U200-2
+Added Pin To Net: NetName=GND Pin=U300-4
+Added Pin To Net: NetName=GND Pin=U301-3
+Added Pin To Net: NetName=MCU_RX Pin=U301-5
+Added Pin To Net: NetName=3.3v Pin=U301-6
+Added Pin To Net: NetName=+5_AFE Pin=U200-1
+Added Pin To Net: NetName=+5_AFE Pin=U200-3
+Added Net: Name=+5_AFE
+Added Net: Name=+12
+Added Pin To Net: NetName=3.3V_AFE Pin=P100-3
+Added Pin To Net: NetName=3.3V_AFE Pin=U100-13
+Added Pin To Net: NetName=3.3V_AFE Pin=U200-5
+Added Pin To Net: NetName=3.3V_AFE Pin=U300-6
+Added Net: Name=3.3V_AFE
+Added Pin To Net: NetName=AFE_RX Pin=U100-19
+Added Pin To Net: NetName=AFE_RX Pin=U300-5
+Added Net: Name=AFE_RX
+Added Pin To Net: NetName=AFE_SBWTCK Pin=P100-1
+Added Pin To Net: NetName=AFE_SBWTCK Pin=U100-16
+Added Net: Name=AFE_SBWTCK
+Added Pin To Net: NetName=AFE_SWTDIO Pin=P100-6
+Added Pin To Net: NetName=AFE_SWTDIO Pin=S100-1
+Added Pin To Net: NetName=AFE_SWTDIO Pin=U100-15
+Added Net: Name=AFE_SWTDIO
+Added Pin To Net: NetName=AFE_TX Pin=U100-20
+Added Net: Name=AFE_TX
+Added Pin To Net: NetName=D_GND Pin=U300-3
+Added Pin To Net: NetName=D_GND Pin=U301-4
+Added Net: Name=D_GND
+Added Net: Name=E_OUT
+Added Net: Name=E
+Added Pin To Net: NetName=I1+ Pin=U100-5
+Added Net: Name=I1+
+Added Pin To Net: NetName=I1- Pin=U100-6
+Added Net: Name=I1-
+Added Pin To Net: NetName=I+ Pin=U100-3
+Added Net: Name=I+
+Added Pin To Net: NetName=I- Pin=U100-4
+Added Net: Name=I-
+Added Net: Name=L
+Added Net: Name=N_OUT
+Added Pin To Net: NetName=NetC103_2 Pin=U100-9
+Added Net: Name=NetC103_2
+Added Pin To Net: NetName=NetC104_1 Pin=U100-14
+Added Net: Name=NetC104_1
+Added Net: Name=NetD100_1
+Added Net: Name=NetD101_1
+Added Net: Name=NetD102_1
+Added Net: Name=NetD202_1
+Added Net: Name=NetD400_2
+Added Net: Name=NetD402_2
+Added Net: Name=NetF200_2
+Added Net: Name=NetFL400_2
+Added Net: Name=NetFL401_2
+Added Net: Name=NetM200_3
+Added Net: Name=NetQ300_1
+Added Net: Name=NetQ300_3
+Added Pin To Net: NetName=NetR101_2 Pin=U100-21
+Added Net: Name=NetR101_2
+Added Pin To Net: NetName=NetR102_2 Pin=U100-22
+Added Net: Name=NetR102_2
+Added Net: Name=NetR103_2
+Added Net: Name=NetR104_2
+Added Pin To Net: NetName=NetR300_1 Pin=U300-1
+Added Net: Name=NetR300_1
+Added Pin To Net: NetName=NetR302_2 Pin=U301-1
+Added Net: Name=NetR302_2
+Added Pin To Net: NetName=N Pin=U100-10
+Added Net: Name=N
+Added Net: Name=RELAY_L_OUT
+Added Pin To Net: NetName=V+ Pin=U100-1
+Added Net: Name=V+
+Added Pin To Net: NetName=V- Pin=U100-2
+Added Net: Name=V-
+Added Class: Name=AFE
+Added Class: Name=ct_interface
+Added Class: Name=interface1
+Added Class: Name=power1
+Added Room: Name=AFE
+Added Room: Name=ct_interface
+Added Room: Name=gsm
+Added Room: Name=interface1
+Added Room: Name=interface
+Added Room: Name=main_controller
+Added Room: Name=power1
+Added Room: Name=power

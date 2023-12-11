@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5 Pin=M200-6
+Removed Pin From Net: NetName=GND Pin=M200-7
+Added Pin To Net: NetName=GND Pin=M200-6
+Added Pin To Net: NetName=+5 Pin=M200-7
+Add Pin To Net: Unknown Pin: Pin M200-8

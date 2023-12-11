@@ -1,0 +1,110 @@
+Add Component: Footprint Not Found CAP_0603
+Add Component: Footprint Not Found CAPC1608X90N
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found EEETC1V470P
+Add Component: Footprint Not Found CAPC2012X70N
+Add Component: Footprint Not Found CAPAE660X770N
+Add Component: Footprint Not Found CAPC2012X70N
+Add Component: Footprint Not Found CAPC1608X90
+Add Component: Footprint Not Found LED-0603-BLUE
+Add Component: Footprint Not Found DIOM5436X261N
+Add Component: Footprint Not Found DIOM5436X244N
+Add Component: Footprint Not Found LED-0603-BLUE
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SAMTEC_MTMM-101-10-G-D-135
+Add Component: Footprint Not Found SOT96P237X111-3N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1607X60N
+Add Component: Footprint Not Found RESC1607X60N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found S14K300
+Add Pin To Net: Unknown Pin: Pin C102-1
+Add Pin To Net: Unknown Pin: Pin C102-2
+Add Pin To Net: Unknown Pin: Pin C103-1
+Add Pin To Net: Unknown Pin: Pin C103-2
+Add Pin To Net: Unknown Pin: Pin C105-1
+Add Pin To Net: Unknown Pin: Pin C105-2
+Add Pin To Net: Unknown Pin: Pin C107-1
+Add Pin To Net: Unknown Pin: Pin C107-2
+Add Pin To Net: Unknown Pin: Pin C200-1
+Add Pin To Net: Unknown Pin: Pin C200-2
+Add Pin To Net: Unknown Pin: Pin C201-1
+Add Pin To Net: Unknown Pin: Pin C201-2
+Add Pin To Net: Unknown Pin: Pin C202-1
+Add Pin To Net: Unknown Pin: Pin C202-2
+Add Pin To Net: Unknown Pin: Pin C203-1
+Add Pin To Net: Unknown Pin: Pin C203-2
+Add Pin To Net: Unknown Pin: Pin C402-1
+Add Pin To Net: Unknown Pin: Pin C402-2
+Add Pin To Net: Unknown Pin: Pin D101-1
+Add Pin To Net: Unknown Pin: Pin D101-2
+Add Pin To Net: Unknown Pin: Pin D200-1
+Add Pin To Net: Unknown Pin: Pin D200-2
+Add Pin To Net: Unknown Pin: Pin D201-1
+Add Pin To Net: Unknown Pin: Pin D201-2
+Add Pin To Net: Unknown Pin: Pin D202-1
+Add Pin To Net: Unknown Pin: Pin D202-2
+Add Pin To Net: Unknown Pin: Pin D401-1
+Add Pin To Net: Unknown Pin: Pin D401-2
+Add Pin To Net: Unknown Pin: Pin D403-1
+Add Pin To Net: Unknown Pin: Pin D403-2
+Add Pin To Net: Unknown Pin: Pin D404-1
+Add Pin To Net: Unknown Pin: Pin D404-2
+Add Pin To Net: Unknown Pin: Pin J401-01
+Add Pin To Net: Unknown Pin: Pin J401-02
+Add Pin To Net: Unknown Pin: Pin M200-6
+Add Pin To Net: Unknown Pin: Pin Q300-1
+Add Pin To Net: Unknown Pin: Pin Q300-2
+Add Pin To Net: Unknown Pin: Pin Q300-3
+Add Pin To Net: Unknown Pin: Pin R104-1
+Add Pin To Net: Unknown Pin: Pin R104-2
+Add Pin To Net: Unknown Pin: Pin R105-1
+Add Pin To Net: Unknown Pin: Pin R105-2
+Add Pin To Net: Unknown Pin: Pin R106-1
+Add Pin To Net: Unknown Pin: Pin R106-2
+Add Pin To Net: Unknown Pin: Pin R107-1
+Add Pin To Net: Unknown Pin: Pin R107-2
+Add Pin To Net: Unknown Pin: Pin R108-1
+Add Pin To Net: Unknown Pin: Pin R108-2
+Add Pin To Net: Unknown Pin: Pin R300-1
+Add Pin To Net: Unknown Pin: Pin R300-2
+Add Pin To Net: Unknown Pin: Pin R302-1
+Add Pin To Net: Unknown Pin: Pin R302-2
+Add Pin To Net: Unknown Pin: Pin R402-1
+Add Pin To Net: Unknown Pin: Pin R402-2
+Add Pin To Net: Unknown Pin: Pin RV200-1
+Add Pin To Net: Unknown Pin: Pin RV200-2
+Add Class Member: Failed to add class member : Component C102 10µF
+Add Class Member: Failed to add class member : Component C103 06033G104ZAT4A
+Add Class Member: Failed to add class member : Component C105 CC0603JRNPO9BN470
+Add Class Member: Failed to add class member : Component C107 CC0603JRNPO9BN470
+Add Class Member: Failed to add class member : Component C200 EEE-FK1E221AL
+Add Class Member: Failed to add class member : Component C201 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C202 865081745006
+Add Class Member: Failed to add class member : Component C203 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C402 CC0603JRNPO9BN470
+Add Class Member: Failed to add class member : Component D101 LED-BLUE
+Add Class Member: Failed to add class member : Component D200 SMBJ7.0A
+Add Class Member: Failed to add class member : Component D201 SMBJ20A
+Add Class Member: Failed to add class member : Component D202 LED-BLUE
+Add Class Member: Failed to add class member : Component D401 1N4148W_R1_00001
+Add Class Member: Failed to add class member : Component D403 1N4148W_R1_00001
+Add Class Member: Failed to add class member : Component D404 1N4148W_R1_00001
+Add Class Member: Failed to add class member : Component J401 MTMM-101-10-G-D-135
+Add Class Member: Failed to add class member : Component Q300 MMBT5087LT3G
+Add Class Member: Failed to add class member : Component R104 CRCW2512330KFKEG
+Add Class Member: Failed to add class member : Component R105 CRCW2512330KFKEG
+Add Class Member: Failed to add class member : Component R106 CR0603-FX-1000ELF
+Add Class Member: Failed to add class member : Component R107 CRCW25121K50JNEG
+Add Class Member: Failed to add class member : Component R108 CR0603-FX-1001ELF
+Add Class Member: Failed to add class member : Component R300 RC0603FR-0710KL
+Add Class Member: Failed to add class member : Component R302 RC0603FR-0710KL
+Add Class Member: Failed to add class member : Component R402 CR0603-FX-1001ELF
+Add Class Member: Failed to add class member : Component RV200 S14K300

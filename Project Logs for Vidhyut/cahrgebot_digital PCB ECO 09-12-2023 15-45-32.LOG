@@ -1,0 +1,155 @@
+Added Component: Designator=C102(CAP_0603 - duplicate)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1192-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C103(CAPC1608X90N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'AVX'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "06033G104ZAT4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C105(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Yageo'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603JRNPO9BN470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pf"; VariantName = "[No Variations]"
+Added Component: Designator=C107(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Yageo'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603JRNPO9BN470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pf"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found EEETC1V470P
+Add Component: Footprint Not Found CAPC2012X70N
+Add Component: Footprint Not Found CAPAE660X770N
+Add Component: Footprint Not Found CAPC2012X70N
+Added Component: Designator=C402(CAPC1608X90)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Yageo'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0603JRNPO9BN470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47pf"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LED-0603-BLUE
+Added Component: Designator=D200(DIOM5436X261N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMBJ7.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smbj7.0a/littelfuse?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/SMBJ7.0A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.61mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMBJ7.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-SMBJ7.0A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ7.0A?qs=JJML70Qc14tN8I1Byy%252B8EA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D201(DIOM5436X261N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMBJ20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smbj20a/bourns?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/smbj.pdf?sfvrsn=34552159_17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.44mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMBJ20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-SMBJ20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/SMBJ20A?qs=%252Bf8Cd6aE5bx0luBLnSoXTg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LED-0603-BLUE
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SOD3816X135N
+Add Component: Footprint Not Found SAMTEC_MTMM-101-10-G-D-135
+Add Component: Footprint Not Found SOT96P237X111-3N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC6331X70N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1607X60N
+Add Component: Footprint Not Found RESC1607X60N
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found S14K300
+Added Pin To Net: NetName=3.3V_AFE Pin=C102-1
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=N Pin=C103-1
+Added Pin To Net: NetName=NetC103_2 Pin=C103-2
+Added Pin To Net: NetName=V+ Pin=C105-1
+Added Pin To Net: NetName=N Pin=C105-2
+Added Pin To Net: NetName=N Pin=C107-1
+Added Pin To Net: NetName=V- Pin=C107-2
+Add Pin To Net: Unknown Pin: Pin C200-1
+Add Pin To Net: Unknown Pin: Pin C200-2
+Add Pin To Net: Unknown Pin: Pin C201-1
+Add Pin To Net: Unknown Pin: Pin C201-2
+Add Pin To Net: Unknown Pin: Pin C202-1
+Add Pin To Net: Unknown Pin: Pin C202-2
+Add Pin To Net: Unknown Pin: Pin C203-1
+Add Pin To Net: Unknown Pin: Pin C203-2
+Added Pin To Net: NetName=I1- Pin=C402-1
+Added Pin To Net: NetName=GND Pin=C402-2
+Add Pin To Net: Unknown Pin: Pin D101-1
+Add Pin To Net: Unknown Pin: Pin D101-2
+Added Pin To Net: NetName=+12 Pin=D200-1
+Added Pin To Net: NetName=GND Pin=D200-2
+Added Pin To Net: NetName=+5 Pin=D201-1
+Added Pin To Net: NetName=GND Pin=D201-2
+Add Pin To Net: Unknown Pin: Pin D202-1
+Add Pin To Net: Unknown Pin: Pin D202-2
+Add Pin To Net: Unknown Pin: Pin D401-1
+Add Pin To Net: Unknown Pin: Pin D401-2
+Add Pin To Net: Unknown Pin: Pin D403-1
+Add Pin To Net: Unknown Pin: Pin D403-2
+Add Pin To Net: Unknown Pin: Pin D404-1
+Add Pin To Net: Unknown Pin: Pin D404-2
+Add Pin To Net: Unknown Pin: Pin J401-01
+Add Pin To Net: Unknown Pin: Pin J401-02
+Add Pin To Net: Unknown Pin: Pin M200-6
+Add Pin To Net: Unknown Pin: Pin Q300-1
+Add Pin To Net: Unknown Pin: Pin Q300-2
+Add Pin To Net: Unknown Pin: Pin Q300-3
+Add Pin To Net: Unknown Pin: Pin R104-1
+Add Pin To Net: Unknown Pin: Pin R104-2
+Add Pin To Net: Unknown Pin: Pin R105-1
+Add Pin To Net: Unknown Pin: Pin R105-2
+Add Pin To Net: Unknown Pin: Pin R106-1
+Add Pin To Net: Unknown Pin: Pin R106-2
+Add Pin To Net: Unknown Pin: Pin R107-1
+Add Pin To Net: Unknown Pin: Pin R107-2
+Add Pin To Net: Unknown Pin: Pin R108-1
+Add Pin To Net: Unknown Pin: Pin R108-2
+Add Pin To Net: Unknown Pin: Pin R300-1
+Add Pin To Net: Unknown Pin: Pin R300-2
+Add Pin To Net: Unknown Pin: Pin R302-1
+Add Pin To Net: Unknown Pin: Pin R302-2
+Add Pin To Net: Unknown Pin: Pin R402-1
+Add Pin To Net: Unknown Pin: Pin R402-2
+Add Pin To Net: Unknown Pin: Pin RV200-1
+Add Pin To Net: Unknown Pin: Pin RV200-2
+Added Member To Class: ClassName=AFE Member=Component C102 10µF
+Added Member To Class: ClassName=AFE Member=Component C103 06033G104ZAT4A
+Added Member To Class: ClassName=AFE Member=Component C105 CC0603JRNPO9BN470
+Added Member To Class: ClassName=AFE Member=Component C107 CC0603JRNPO9BN470
+Add Class Member: Failed to add class member : Component C200 EEE-FK1E221AL
+Add Class Member: Failed to add class member : Component C201 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C202 865081745006
+Add Class Member: Failed to add class member : Component C203 CC0805KRX7R9BB104
+Added Member To Class: ClassName=ct_interface Member=Component C402 CC0603JRNPO9BN470
+Add Class Member: Failed to add class member : Component D101 LED-BLUE
+Added Member To Class: ClassName=power1 Member=Component D200 SMBJ7.0A
+Added Member To Class: ClassName=power1 Member=Component D201 SMBJ20A
+Add Class Member: Failed to add class member : Component D202 LED-BLUE
+Add Class Member: Failed to add class member : Component D401 1N4148W_R1_00001
+Add Class Member: Failed to add class member : Component D403 1N4148W_R1_00001
+Add Class Member: Failed to add class member : Component D404 1N4148W_R1_00001
+Add Class Member: Failed to add class member : Component J401 MTMM-101-10-G-D-135
+Add Class Member: Failed to add class member : Component Q300 MMBT5087LT3G
+Add Class Member: Failed to add class member : Component R104 CRCW2512330KFKEG
+Add Class Member: Failed to add class member : Component R105 CRCW2512330KFKEG
+Add Class Member: Failed to add class member : Component R106 CR0603-FX-1000ELF
+Add Class Member: Failed to add class member : Component R107 CRCW25121K50JNEG
+Add Class Member: Failed to add class member : Component R108 CR0603-FX-1001ELF
+Add Class Member: Failed to add class member : Component R300 RC0603FR-0710KL
+Add Class Member: Failed to add class member : Component R302 RC0603FR-0710KL
+Add Class Member: Failed to add class member : Component R402 CR0603-FX-1001ELF
+Add Class Member: Failed to add class member : Component RV200 S14K300
